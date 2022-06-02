@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TV0fkwXK2L3iCyP2PDs8+XIme45oabC3t6eOSBgDQY8iQnQpjtLCPa2ao7TjuyHel8SVC0BkN1BZsr0nwZS0zw==",
+  "success": true,
+  "projectFilePath": "C:\\MICRO_SERVICOS\\CURSO MICROSERVICOS LeandroCosta\\GIT-REPOSITORIES\\erudio-microservices-dotnet6\\RestWithASPNETUdemyVS\\RestWithASPNETUdemyVS\\RestWithASPNETUdemyVS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jblor\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\jblor\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jblor\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\jblor\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\jblor\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\jblor\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
